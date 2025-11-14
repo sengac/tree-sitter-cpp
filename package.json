@@ -1,8 +1,8 @@
 {
   "name": "@sengac/tree-sitter-cpp",
-  "version": "0.25.4",
+  "version": "0.25.5",
   "description": "C++ grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-cpp",
+  "repository": "https://github.com/sengac/tree-sitter-cpp",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",
@@ -35,7 +35,7 @@
   "dependencies": {
     "node-addon-api": "^8.2.1",
     "node-gyp-build": "^4.8.2",
-    "@sengac/tree-sitter-c": "^0.25.2"
+    "@sengac/tree-sitter-c": "^0.25.6"
   },
   "devDependencies": {
     "eslint": "^9.12.0",
@@ -44,7 +44,7 @@
     "tree-sitter-cli": "^0.25.0"
   },
   "peerDependencies": {
-    "@sengac/tree-sitter": "^0.25.8"
+    "@sengac/tree-sitter": "^0.25.10"
   },
   "peerDependenciesMeta": {
     "@sengac/tree-sitter": {
