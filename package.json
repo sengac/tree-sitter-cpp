@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-cpp",
-  "version": "0.25.6",
+  "version": "0.25.12",
   "description": "C++ grammar for tree-sitter",
   "repository": "https://github.com/sengac/tree-sitter-cpp",
   "license": "MIT",
